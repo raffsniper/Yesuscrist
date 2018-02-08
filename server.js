@@ -1,4 +1,20 @@
 
+const http = require('http');
+const express = require('express');
+const app = express();
+//
+app.use(express.static('public'));
+
+
+app.get("/", (request, response) => {
+  response.sendStatus(200);
+});
+
+app.listen();
+
+setInterval(() => {
+  http.get(`https://yesuscrist.herokuapp.com/`); 
+}, 280000);
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require('./config.json')
