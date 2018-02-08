@@ -21,5 +21,13 @@
   "engines": {
     "node": "8.x"
   },
-  "repository"
+  "repository": {
+    "url": "http://www.craterdev.com/documentacion-mybot/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
