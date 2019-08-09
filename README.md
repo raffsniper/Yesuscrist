@@ -1,2 +1,1 @@
-# Yesuscrist
-Bot de discor
+# YesuscristxdMy personal bot of discord
