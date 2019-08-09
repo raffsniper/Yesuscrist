@@ -1,1 +1,2 @@
-# YesuscristxdMy personal bot of discord
+# Yesuscristxd
+My personal bot of discord
